@@ -34,3 +34,5 @@ Package | Version
 
 ## Скриншоты
 ### Интерфейс приложения
+
+<img height='300px' src='https://github.com/ErikMak/wallpaperchanger/assets/90393934/63dd5f9b-f61d-47b5-a501-7afd06e19cb8'>
